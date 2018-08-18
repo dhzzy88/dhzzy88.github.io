@@ -1,4 +1,4 @@
-# baseUrl = "dhzzy88.github.io"
+baseUrl = "dhzzy88.github.io"
 canonifyurls =  "true"
 languageCode = "en-us"
 
@@ -97,10 +97,10 @@ paginate = 10
 
 [[menu.main]]
 	name = "Home"
-	url  = "/"
+	url  = "./"
 	weight = 0
 
 [[menu.main]]
 	name = "Blog"
-	url  = "post/"
+	url  = "./content/post/"
 	weight = 10
