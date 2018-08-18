@@ -1,4 +1,4 @@
-baseUrl = "https://dhzzy88.github.io"
+baseUrl = "dhzzy88.github.io`"
 canonifyurls =  "true"
 languageCode = "en-us"
 
@@ -30,9 +30,9 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**I'm the Sun**, 一个业余诗人,To being a coder，现在就读于南京信息工程大学."
 		# The icons will be shown if you enter your username
-		
+
 		github = "dhzzy88"
-	
+
 
 		copyright = [
 			"&copy; 赵智祎____禁止爬虫爬取信息_____欢迎分享和转载，转载请注明来源 RRS:本站支持订阅"
@@ -56,7 +56,7 @@ paginate = 10
 			thumb = "thumbs/01.jpg"
 			title = "这是一张美化博客的图片，来源于主题模版"
 			description = "我的博客使用hugo自行搭建，主题模版来源于hugo官网，对此我向开源社区表示感谢"
-              
+
 
 
 	[params.contact]
@@ -68,7 +68,7 @@ paginate = 10
 			"中国","江苏","南京"
 		]
 		phone = "15195813018"
-                
+
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
 		# email. Visitors can send up to a 1000 emails each month for free.
@@ -92,6 +92,9 @@ paginate = 10
 
 
 # Menu links that appear on the left sidebar
+
+
+
 [[menu.main]]
 	name = "Home"
 	url  = "/"
@@ -101,4 +104,3 @@ paginate = 10
 	name = "Blog"
 	url  = "post/"
 	weight = 10
-

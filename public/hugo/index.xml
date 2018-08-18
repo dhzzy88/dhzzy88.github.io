@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Strata</title>
-    <link>dhzzy88.github.io%60/</link>
-    <description>Recent content on Strata</description>
+    <title>Hugos on Strata</title>
+    <link>dhzzy88.github.io%60/hugo/</link>
+    <description>Recent content in Hugos on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Aug 2018 20:14:50 +0800</lastBuildDate>
     
-	<atom:link href="dhzzy88.github.io%60/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="dhzzy88.github.io%60/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,19 +30,6 @@
 4 hugo的github主页，也是下载链接处
 5 本博客的源码地址
  </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>dhzzy88.github.io%60/post/first/</link>
-      <pubDate>Sat, 18 Aug 2018 12:43:01 +0800</pubDate>
-      
-      <guid>dhzzy88.github.io%60/post/first/</guid>
-      <description>Hi,welcome to sun&amp;rsquo;s website １．这个博客是我自己使用hugo工具搭建的个人博客，所有人都可以自由访问不受限制。
-２．Bolg 的相关板块会相继建设出来，也会增加部分分类标签
-３.任何人都可以自由阅读我的相关文章和收集到的资源，但是请在转载或者引用的时候增加我的个人标识或者名字，以及本博客的url地址。
-４．不定期更新，可以使用书签订阅本博客，欢迎分享。
-５．主页左侧有我的github主页</description>
     </item>
     
   </channel>
