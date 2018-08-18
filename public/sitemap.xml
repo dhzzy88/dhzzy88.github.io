@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dhzzy88.github.io/hugo/usehugo/</loc>
+    <loc>/hugo/usehugo/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/content/</loc>
+    <loc>/post/usehugo/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/content/</loc>
+    <loc>/post/first/</loc>
     <lastmod>2018-08-18T12:43:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/hugo/</loc>
+    <loc>/hugo/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

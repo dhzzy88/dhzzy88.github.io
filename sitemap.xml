@@ -3,12 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/hugo/usehugo/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/usehugo/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first/</loc>
+    <lastmod>2018-08-18T12:43:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/hugo/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   

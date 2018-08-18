@@ -1,4 +1,4 @@
-baseUrl = "dhzzy88.github.io"
+# baseUrl = "dhzzy88.github.io"
 canonifyurls =  "true"
 languageCode = "en-us"
 
@@ -93,8 +93,7 @@ paginate = 10
 
 # Menu links that appear on the left sidebar
 
-[permalinks]
-  post = "/content"
+
 
 [[menu.main]]
 	name = "Home"
