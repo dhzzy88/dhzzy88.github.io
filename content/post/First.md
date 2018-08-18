@@ -4,8 +4,13 @@ date: 2018-08-18T12:43:01+08:00
 
 ---
 
-## Hi,welcome to sun's website
-##  
+##　 Hi,welcome to sun's website
+### 点击左侧四分之一同心圆圈RRS 可以订阅本博客哟，虽然刚刚搭建，以后一定会更新的。
+
+>  本博客长期有效，除非gtihub关闭，否则将永久可以在[https://dhzzy88.github.io/](https://dhzzy88.github.io/)访问本博客
+与[https://www.weloveshow.top](https://www.weloveshow.top)具有相同的访问效果
+
+> www.weloveshow.top域名暂时还有一年的有效时间，到期会续
 
 １．这个博客是我自己使用hugo工具搭建的个人博客，所有人都可以自由访问不受限制。
 
