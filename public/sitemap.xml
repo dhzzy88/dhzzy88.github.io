@@ -3,40 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dhzzy88.github.io%60/hugo/usehugo/</loc>
+    <loc>dhzzy88.github.io/hugo/usehugo/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io%60/post/first/</loc>
+    <loc>dhzzy88.github.io/content/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>dhzzy88.github.io/content/</loc>
     <lastmod>2018-08-18T12:43:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io%60/categories/</loc>
+    <loc>dhzzy88.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io%60/hugo/</loc>
+    <loc>dhzzy88.github.io/hugo/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io%60/post/</loc>
-    <lastmod>2018-08-18T12:43:01+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>dhzzy88.github.io%60/</loc>
+    <loc>dhzzy88.github.io/post/</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io%60/tags/</loc>
+    <loc>dhzzy88.github.io/</loc>
+    <lastmod>2018-08-18T20:14:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>dhzzy88.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
