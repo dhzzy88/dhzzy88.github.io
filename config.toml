@@ -1,7 +1,7 @@
-baseUrl = "dhzzy88.github.io/"
+baseUrl = "https://dhzzy88.github.io/"
 canonifyurls =  "true"
 languageCode = "en-us"
-
+disableLiveReload=true
 title = "Strata"
 disablePathToLower = true
 uglyurls =true
