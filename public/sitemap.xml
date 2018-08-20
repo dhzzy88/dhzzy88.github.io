@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dhzzy88.github.io/hugo/usehugo/</loc>
+    <loc>dhzzy88.github.io/hugo/usehugo.html</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/post/usehugo/</loc>
+    <loc>dhzzy88.github.io/post/usehugo.html</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/post/first/</loc>
+    <loc>dhzzy88.github.io/post/First.html</loc>
     <lastmod>2018-08-18T12:43:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/categories/</loc>
+    <loc>dhzzy88.github.io/categories.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/hugo/</loc>
+    <loc>dhzzy88.github.io/hugo.html</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/post/</loc>
+    <loc>dhzzy88.github.io/post.html</loc>
     <lastmod>2018-08-18T20:14:50+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -41,7 +41,7 @@
   </url>
   
   <url>
-    <loc>dhzzy88.github.io/tags/</loc>
+    <loc>dhzzy88.github.io/tags.html</loc>
     <priority>0</priority>
   </url>
   

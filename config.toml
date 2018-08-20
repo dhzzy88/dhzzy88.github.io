@@ -1,10 +1,12 @@
-baseUrl = "dhzzy88.github.io"
+baseUrl = "dhzzy88.github.io/"
 canonifyurls =  "true"
 languageCode = "en-us"
 
 title = "Strata"
+disablePathToLower = true
+uglyurls =true
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+#disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -97,10 +99,10 @@ paginate = 10
 
 [[menu.main]]
 	name = "Home"
-	url  = "./"
+	url  = "/"
 	weight = 0
 
 [[menu.main]]
 	name = "Blog"
-	url  = "./content/post/"
+	url  = "post/"
 	weight = 10
