@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Strata</title>
-    <link>https://dhzzy88.github.io/tags.html</link>
-    <description>Recent content in Tags on Strata</description>
+    <title>Tags on The sun&#39;s Blog</title>
+    <link>https://www.weloveshow.top/tags/</link>
+    <description>Recent content in Tags on The sun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 21 Aug 2018 10:09:48 +0800</lastBuildDate>
     
-	<atom:link href="https://dhzzy88.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.weloveshow.top/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang</title>
+      <link>https://www.weloveshow.top/tags/golang/</link>
+      <pubDate>Tue, 21 Aug 2018 10:09:48 +0800</pubDate>
+      
+      <guid>https://www.weloveshow.top/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://www.weloveshow.top/tags/hugo/</link>
+      <pubDate>Tue, 21 Aug 2018 10:09:48 +0800</pubDate>
+      
+      <guid>https://www.weloveshow.top/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welocome</title>
+      <link>https://www.weloveshow.top/tags/welocome/</link>
+      <pubDate>Tue, 21 Aug 2018 09:53:55 +0800</pubDate>
+      
+      <guid>https://www.weloveshow.top/tags/welocome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

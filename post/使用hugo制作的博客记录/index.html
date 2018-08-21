@@ -14,16 +14,18 @@ body, body.pushable {
   	background-size: cover !important;
 }
 
-</style><title>The sun&#39;s Blog</title><meta charset="UTF-8">
+</style><title>
+使用hugo制作的博客记录
+</title><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="author" content="太阳" />
-	<meta name="description" content="太阳的个人网站" />
+	<meta name="description" content="使用ｈｕｇｏ制作博客的一些记录分享" />
 <meta name="generator" content="Hugo 0.47" />
 
 <link rel="shortcut icon" href="/img/defaultFav.ico">
 
-<link rel="canonical" href="https://www.weloveshow.top/" />
+<link rel="canonical" href="https://www.weloveshow.top/post/%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/" />
 <link rel="alternative" href="/index.xml" title="The sun&#39;s Blog" type="application/atom+xml"/><link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
 <style>
 body.pushable {
@@ -143,6 +145,11 @@ var bodyBgSwitchIndex = 0;var gradients = [
 	<div class="item">
 		<i class="inverted big link bullseye icon dream-flip-toggle" title="About Me"></i>
 	</div><div class="item">
+		<a href="/">
+			<i class="inverted big link home icon" title="Home"></i>
+		</a>
+	</div>
+	<div class="item">
 		<a href="/post">
 			<i class="inverted big link archive icon" title="Archive"></i>
 		</a>
@@ -157,22 +164,16 @@ var bodyBgSwitchIndex = 0;var gradients = [
 			<i class="inverted big link cubes icon" title="All Categories"></i>
 		</a>
     </div>
-	
-	<div class="item">
-		
-		<i class="disabled inverted big chevron circle left icon" title="Previous page"></i>
-  	
-  </div>
-	<div class="item">	
-		<i class="disabled inverted big chevron circle right icon" title="Next page"></i>
-		
+	<div class="ui container tablet computer only grid">
+		<div class="item" onClick="$('.ui.sidebar').sidebar('setting', 'transition', 'overlay').sidebar('toggle');">
+			<i class="inverted big link sidebar icon" title="Show Sidebar"></i>
+		</div>
 	</div>
 	
 </nav>
 
 <div class="ui centered grid">
-	<div class="fifteen wide mobile fifteen wide tablet four wide computer column">
-		<div class="ui inverted accordion">
+	<div class="sixteen wide mobile only column"><div class="ui inverted accordion">
 	<div id="header" class="ui inverted segment column box">
 		<header id="author" class="ui top attached center aligned inverted segment"><div class="ui small circular image">
 	<img src="https://avatars1.githubusercontent.com/u/31563814?s=460&amp;v=4">
@@ -181,10 +182,10 @@ var bodyBgSwitchIndex = 0;var gradients = [
 	<div class="sub header">他曾是海子的追随者，又成为顾城的膜拜者，然而他们却在历史中慢慢逝去了。他一直迷惘着，一直低落沉默，最憧憬的生活是一边写诗，一边做代码民工，最好能多一些旅行</div>
 </h3>
 </header>
-		<div class="active title header-title"><div id="tag-category-pop" class="ui red right corner label">		
-				<i class="hand point icon up"title="Click this to pop tags and categories"></i>		
+		<div class=" title header-title"><div id="tag-category-pop" class="ui red right corner label">		
+				<i class="hand point icon down"title="Click this to pop tags and categories"></i>		
 			</div></div>
-		<div id="tag-category" class="active content"><section class="ui attached center aligned inverted segment dream-tags none flexbox">
+		<div id="tag-category" class=" content"><section class="ui attached center aligned inverted segment dream-tags none flexbox">
 <a class="ui label" href="/tags/golang" title="golang">golang</a>
 
 <a class="ui label" href="/tags/hugo" title="hugo">hugo</a>
@@ -230,52 +231,120 @@ var bodyBgSwitchIndex = 0;var gradients = [
     
 <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Dream Plus</a> theme.</p></footer>
 	</div>
-</div>
-	</div>
-	<div class="fifteen wide mobile fifteen wide tablet eleven wide computer column post-list">
-		<div class="cards row box">
+</div></div>
+	<div class="sixteen wide mobile fifteen wide tablet twelve wide computer column post-list">
+		<section class="ui secondary top attached black segment post-head">
+			<h1 class="post-title">
+				使用hugo制作的博客记录
+			</h1>
+			<div class="sub header">
+					<div><span><i class="calendar outline icon"></i>Aug 21, 2018</span></div><div><span class="disqusComment"><i class="comment outline icon"></i><a href="https://www.weloveshow.top/post/%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="3828022563bf2ba71744feb8c2ebd3aa"></a></span></div>
+					<div><span><i class="clock outline icon"></i>1 min read</span></div>
+					<div><span><i class="angle double up icon"></i>Last updated on Aug 21, 2018</span></div>
+			</div>
+			<hr><div class="toc"><nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#关于使用hugo搭建本博客的相关步骤和所使用的工具">关于使用hugo搭建本博客的相关步骤和所使用的工具</a></li>
+</ul></li>
+</ul>
+</nav></div>
 			
-	<article class="blog-card none flexbox" style="background-image: url(https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png)">
-<img class="image" src="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png"></img>
-<div class="title-content twemoji">
-	<h3><a class="title" href=https://www.weloveshow.top/post/%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/>使用hugo制作的博客记录</a></h3>
-	<div class="intro twemoji">使用ｈｕｇｏ制作博客的一些记录分享</div>
-</div>
-<div class="utility-info">
-	<ul class="utility-list">
-		
-		<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="3828022563bf2ba71744feb8c2ebd3aa"></span></div>
-		
-		<div><span><i class="calendar icon"></i>Aug 21, 2018</span></div>
-		<div><span><i class="clock icon"></i>1 min read</span></div>
-	</ul>
-</div>
-<div class="color-overlay"></div>
-</article>
+			
+			<article class="post-content twemoji">
+				
 
+<h2 id="关于使用hugo搭建本博客的相关步骤和所使用的工具">关于使用hugo搭建本博客的相关步骤和所使用的工具&nbsp;<a class="anchor" href="#关于使用hugo搭建本博客的相关步骤和所使用的工具"><i class="small linkify icon"></i></a> </h2>
+
+<ol>
+<li><p>使用了Github Pages作为博客的托管平台，在github上使用仓库可以很方便地更新博客，通过更新仓库就可以了，其实找资源也挺费劲的，文章的末尾有我使用的博客的地址，和相关的技术网站。你需要会使用git并且拥有自己的github账号，如果没有可以现在就去注册一个。<a href="https://github.com/">link to github</a>.</p></li>
+
+<li><p>其实除了使用hugo生成静态网页以外，你还可以使用github官方推荐的网页部署工具进行网站部署，给出链接<a href="https://help.github.com/articles/what-is-github-pages/">link to Github Pages</a>这个链接是github官方帮助引擎里给出的使用文档，当然ｃｈｒｏｍｅ可以帮你翻译，点击右键。</p></li>
+
+<li><p>hugo是使用golang编程语言实现的一个静态网页生成工具，是github上的一个开源项目，最近很流行，除了在生成展示用的静态网页以及个人博客以外，你还可以使用hugo制作十分漂亮的各种低io的网站，上面有很多开源的主题，你可以选择自己喜欢的，frok或者git clone到你生成的ｈｕｇｏ网站项目的　"themes" 目录下。相关的配置和生成方法[在这里](http://www.gohugo.org/doc/) 这是hugo中文中文网站，上面大部分制作的过程都有中文版。</p></li>
+
+<li><pre><code>
+  hugo new site website
+  就创建了一个自己的网站，是不是超简单
+  hugo new post/firstpage.md
+  就可以在firstpage.md中写博客了，使用markdown语法，又快速，又方便，而且不用再次排版。
+  </code></pre></li>
+
+<li><p>你如果觉得这太博客仍然太丑了，你可以去上方的中文网站了解怎么制作自己的主题，更炫酷的东西也可以制作出来。有点费劲，一天做不出来。一个礼拜也不行，怎么也得个把月吧</p></li>
+
+<li><p>坑，坑，坑
+&gt;1. 关于部署过程的一些坑，一定要把config.toml中的相关文件目录指定相对路径。不然部署以后很干，ｃｓｓ全都不见了.
+&gt;2. 生成写完博客务必要使用hugo -D或者把博文文件开头的drag:true删除
+&gt;3. hugo server  -w或者&ndash;watch 可以本机查看网站预览
+&gt;4. hugo new ***.md  生成的文件在ｃｏｎｔｅｎｔ目录下面</p></li>
+
+<li><p>下面是对构建博客中使用的相关资源整理，十分感谢这些分享的博主。</p></li>
+</ol>
+
+<blockquote>
+<p>1  <a href="https://www.jianshu.com/p/7426c16880f6">来自简书的：FrankWang0909</a></p>
+
+<p>2  <a href="http://www.gohugo.org/doc/">hugo网站中文</a></p>
+
+<p>3  <a href="https://www.appinn.com/markdown/">Markdown语法中文文档</a></p>
+
+<p>3  <a href="https://gohugo.io/getting-started/quick-start/">传送门直达hugo快速开始</a></p>
+
+<p>4 <a href="https://github.com/gohugoio/hugo/releases">hugo的github主页，也是下载链接处</a></p>
+
+<p>5 <a href="https://github.com/dhzzy88/dhzzy88.github.io">本博客的源码地址</a></p>
+</blockquote>
+
+			</article>
+		</section>
+		<section class="ui secondary attached segment dream-tags">
+<a class="ui label" href="/tags/golang" title="golang">golang</a>
+
+<a class="ui label" href="/tags/hugo" title="hugo">hugo</a>
+
+<a class="ui label" href="/tags/welocome" title="welocome">welocome</a>
+
+
+		</section><section class="ui secondary  attached segment share row box"><div class="author"><img class="avatar" src="https://avatars1.githubusercontent.com/u/31563814?s=460&amp;v=4">
 	
-<article class="blog-card none flexbox" style="background-image: url(/images/default1.jpg)">
-<img class="image" src="/images/default1.jpg"></img>
-<div class="title-content twemoji">
-	<h3><a class="title" href=https://www.weloveshow.top/post/welcome/>Welcome</a></h3>
-	<div class="intro twemoji">欢迎参观我的博客</div>
 </div>
-<div class="utility-info">
-	<ul class="utility-list">
-		
-		<div><i class="comment icon"></i><span class="disqus-comment-count" data-disqus-identifier="c37907f82482fd5612d3e60689e56628"></span></div>
-		
-		<div><span><i class="calendar icon"></i>Aug 21, 2018</span></div>
-		<div><span><i class="clock icon"></i>1 min read</span></div>
-	</ul>
+<div class="info grow flexbox">
+	<p class="name">太阳</p>
+	<p class="desc">他曾是海子的追随者，又成为顾城的膜拜者，然而他们却在历史中慢慢逝去了。他一直迷惘着，一直低落沉默，最憧憬的生活是一边写诗，一边做代码民工，最好能多一些旅行</p>		
 </div>
-<div class="color-overlay"></div>
-</article>
+<section class="buttons row box">
+	<div class="facebook none flexbox" href="#" onclick="window.open(
+			'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+			'facebook-share-dialog',
+			'width=626,height=436'); return false;">
+		<button class="ui facebook button"><i class="facebook icon"></i>Share</button>
+	</div>
+	<div class="twitter none flexbox" onclick="window.open('https://twitter.com/intent/tweet?text=Read &quot;使用hugo制作的博客记录  https:\/\/www.weloveshow.top\/post\/%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95\/','_self')">
+		<button class="ui twitter button"><i class="twitter icon"></i>Tweet</button>
+	</div>
+</section>
+</section>
+		<section class="ui secondary attached segment copyright">
+			
+		</section>
+		<div class="ui secondary bottom attached stacked segment disqus"><div id="disqus_thread"></div>
+<script>
+	var disqus_config = function () {
+		this.page.url = 'https:\/\/www.weloveshow.top\/post\/%E4%BD%BF%E7%94%A8hugo%E5%88%B6%E4%BD%9C%E7%9A%84%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95\/';
+		this.page.identifier = '3828022563bf2ba71744feb8c2ebd3aa';
+	};
+	(function() {
+   	var d = document, s = d.createElement('script');
+   	s.src = 'https://' + 'The sun' + '.disqus.com/embed.js';
+   	s.setAttribute('data-timestamp', +new Date());
+   	(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-	
-
-
-		</div>
+</div>
+		
 	</div>
 </div>
 

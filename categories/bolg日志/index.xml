@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The sun&#39;s Blog</title>
-    <link>https://www.weloveshow.top/</link>
-    <description>Recent content on The sun&#39;s Blog</description>
+    <title>Bolg日志 on The sun&#39;s Blog</title>
+    <link>https://www.weloveshow.top/categories/bolg%E6%97%A5%E5%BF%97/</link>
+    <description>Recent content in Bolg日志 on The sun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 21 Aug 2018 10:09:48 +0800</lastBuildDate>
     
-	<atom:link href="https://www.weloveshow.top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.weloveshow.top/categories/bolg%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,31 +30,6 @@
 4 hugo的github主页，也是下载链接处
 5 本博客的源码地址
  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.weloveshow.top/about/</link>
-      <pubDate>Tue, 21 Aug 2018 09:56:17 +0800</pubDate>
-      
-      <guid>https://www.weloveshow.top/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://www.weloveshow.top/post/welcome/</link>
-      <pubDate>Tue, 21 Aug 2018 09:53:55 +0800</pubDate>
-      
-      <guid>https://www.weloveshow.top/post/welcome/</guid>
-      <description>##　Hi,welcome to sun&amp;rsquo;s website
-书签　可以订阅本博客哟，虽然刚刚搭建，以后一定会更新的。  本博客长期有效，除非gtihub关闭，否则将永久可以在https://dhzzy88.github.io/访问本博客 与https://www.weloveshow.top具有相同的访问效果
-www.weloveshow.top域名暂时还有一年的有效时间，到期会续
- １．这个博客是我自己使用hugo工具搭建的个人博客，所有人都可以自由访问不受限制。
-２．Bolg 的相关板块会相继建设出来，也会增加部分分类标签
-３.任何人都可以自由阅读我的相关文章和收集到的资源，但是请在转载或者引用的时候增加我的个人标识或者名字，以及本博客的url地址。
-４．不定期更新，可以使用书签订阅本博客，欢迎分享。
-５．主页左侧有我的github主页</description>
     </item>
     
   </channel>
